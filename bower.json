@@ -1,0 +1,17 @@
+{
+  "name": "f1-angular",
+  "description": "Angular F1",
+  "main": "index.js",
+  "authors": [
+    "opunbuds@gmail.com"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "angular": "^1.6.4",
+    "angular-route": "^1.6.4",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "fontawesome#^4.7.0"
+  }
+}

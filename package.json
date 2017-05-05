@@ -1,0 +1,27 @@
+{
+  "name": "f1-angular",
+  "version": "1.0.0",
+  "description": "Angular F1",
+  "main": "index.js",
+  "dependencies": {
+    "bower": "^1.8.0",
+    "del": "^2.2.2",
+    "express": "^4.15.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-htmlmin": "^3.0.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^2.6.0",
+    "gulp-uglify": "^2.1.2",
+    "path": "^0.12.7",
+    "path-exists": "^3.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "postinstall": "bower install",
+    "prestart": "npm install",
+    "start": "node index.js"
+  },
+  "author": "opunbuds@gmail.com",
+  "license": "MIT"
+}
